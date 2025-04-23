@@ -93,7 +93,7 @@ Execute the programs and publish them.
             <font color="red"><b>Kanchipuram</b></font>
         </h1>
         <h3 align="center">
-            <font color="blue"><b>Kanchipuram - My Home Town</b></font>
+            <font color="blue"><b>Kailasanathar Temple</b></font>
         </h3>
         <hr size="3" color="red">
         <p align="justify">
@@ -122,7 +122,7 @@ Execute the programs and publish them.
             <font color="red"><b>Kanchipuram</b></font>
         </h1>
         <h3 align="center">
-            <font color="blue"><b>Kanchipuram - My Home Town</b></font>
+            <font color="blue"><b>Sri Kamatchi Amman Temple</b></font>
         </h3>
         <hr size="3" color="red">
         <p alin="justify">
@@ -147,7 +147,7 @@ Execute the programs and publish them.
             <font color="red"><b>Kanchipuram</b></font>
         </h1>
         <h3 align="center">
-            <font color="blue"><b>Kanchipuram - My Home Town</b></font>
+            <font color="blue"><b>Sri Kanaga Durga Devi Temple</b></font>
         </h3>
         <hr size="3" color="red">
         <p alin="justify">
@@ -172,7 +172,7 @@ Execute the programs and publish them.
             <font color="red"><b>Kanchipuram</b></font>
         </h1>
         <h3 align="center">
-            <font color="blue"><b>Kanchipuram - My Home Town</b></font>
+            <font color="blue"><b>Sri Soonavannam Seidha Perumal Temple</b></font>
         </h3>
         <hr size="3" color="red">
         <p alin="justify">
