@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 23.04.2025
+## Date: 05.05.2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -40,7 +40,7 @@ Execute the programs and publish them.
             <font color="red"><b>Kanchipuram</b></font>
         </h1>
         <h3 align="center">
-            <font color="blue"><b>Adithya Sivakumar (212224040013)</b></font>
+            <font color="blue"><b>JOHN WILFRED THOMAS J W (212224040141)</b></font>
         </h3>
         <center>
             <img src="map.png" usemap="#MyCity" height="610" width="1450">
@@ -73,7 +73,7 @@ Execute the programs and publish them.
         <hr size="3" color="red">
         <p alin="justify">
             <font face="Georgia" size="5">
-                Kanchipuram, also known as Kanchi, is an ancient city in southern India's Tamil Nadu state. Considered a holy pilgrimage site by Hindus, it is home to many temples. The 8th-century Kailasanathar Temple, dedicated to Lord Shiva, is a vast complex with intricate sandstone carvings. Ulagalanda Perumal Temple houses a huge statue of Lord Vishnu. A mango tree in the Ekambareswarar Temple courtyard is thought to be sacred.
+                Kanchipuram, also known as Kanchi, is an ancient city in southern India's Tamil Nadu state. Hindus consider it a holy pilgrimage site, it is home to many temples. The 8th-century Kailasanathar Temple, dedicated to Lord Shiva, is a vast complex with intricate sandstone carvings. Ulagalanda Perumal Temple houses a huge statue of Lord Vishnu. A mango tree in the Ekambareswarar Temple courtyard is thought to be sacred.
             </font>
         </p>
     </body>
@@ -127,7 +127,7 @@ Execute the programs and publish them.
         <hr size="3" color="red">
         <p alin="justify">
             <font face="Georgia" size="5">
-                Sri Kamatchi Amman Temple is one of the most famous and powerful temples in Kanchipuram, dedicated to Goddess Kamatchi, a form of Parvati. She is worshipped as the universal mother who grants wisdom, strength, and blessings to her devotees. This temple is a major Shakti Peeth and attracts thousands of pilgrims every year. The main deity, Kamatchi Amman, is seen in a seated posture holding divine weapons, symbolizing protection and motherhood. The temple's rich traditions, festivals, and deep spiritual energy make it a must-visit place in Kanchipuram.
+                Sri Kamatchi Amman Temple is one of the most famous and powerful temples in Kanchipuram. It is dedicated to Goddess Kamatchi, a form of Parvati. She is worshipped as the universal mother who grants wisdom, strength, and blessings to her devotees. This temple is a major Shakti Peeth and attracts thousands of pilgrims every year. The main deity, Kamatchi Amman, is seen in a seated posture holding divine weapons, symbolising protection and motherhood. The temple's rich traditions, festivals, and deep spiritual energy make it a must-visit place in Kanchipuram.
             </font>
         </p>
     </body>
@@ -185,7 +185,7 @@ Execute the programs and publish them.
 ```
 ## OUTPUT
 
-Adithya Sivakumar 212224040013
+JOHN WILFRED THOMAS J W 212224040141
 
 ![alt text](1.png) 
 ![alt text](2.png)
